@@ -1,0 +1,12 @@
+*.csv
+*.MF4
+.idea/
+*.env
+*.dbc
+*.cpython-312.pyc
+/.vscode
+__pycache__/
+data_upload_file/
+
+*.crt
+*.pem
