@@ -221,7 +221,7 @@ Now picture the beauty of CAN, one high wire and one low wire connecting all the
 Don't worry why there is a 120 Ohm resistor, no one knows why it exists. It just does.
 <br>
 
-#### How Does CANA Function?
+#### How Does CAN Function?
 
 So CAN allows for communication, but how does it actually function?
 <br>
