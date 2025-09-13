@@ -53,7 +53,9 @@ You can chose to follow what is written on this page or you can follow the offic
 7. Click the copy button and return to your command line.
 8. In the cmd write the following: `git clone ` then paste the copied text and hit enter.
 9. Congrats you have cloned the repo. At this point it is customary to stand up, raise your hands above your head and say "I have cloned the repo!"
-10. Before we go any further, lets setup your local branch, in your console, type `git checkout rampup` followed by `git branch my_special_project`. One more step, type `git checkout my_special_project`.
+10. Before we go any further, lets setup your local branch.
+    1. In your console, type `git branch my_special_project`. This creates a local branch on your computer.
+    2. One more step, type `git checkout my_special_project`.
 11. Now create and enter a folder named rampup. If you do not do this it will definitely break things... (You can make this wherever you want, but I would recommend entering the Rampup folder first)
 12. Run the following command `npx create-react-app rampup-client`. This will create a new react folder called rampup-client and should take a little while sit back and chat with your neighbor if they don't smell too bad.
 13. In the cmd write the following: `npm install reactstrap react react-dom` This will install the npm dependencies we use for development. This can take a while. When it tells you we have vulnerabilities... no we don't (don't worry about it these are expected).
